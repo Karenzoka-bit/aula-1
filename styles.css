@@ -1,4 +1,8 @@
-body{
-    color: white
-    background: red
+element.style {    
+    background:rgb(145, 1, 1);
+}
+body {        
+      display: block;
+      margin: 8px;
+
 }
